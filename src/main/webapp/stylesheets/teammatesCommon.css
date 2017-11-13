@@ -1504,3 +1504,7 @@ Prevent Long URL From Breaking Out of Container
 .icon-info:before {
     content: '\e086';
 }
+
+#btn_overflow {
+    overflow: auto;
+}
